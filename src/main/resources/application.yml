@@ -1,0 +1,8 @@
+logging:
+  level:
+    root: info
+    com.czetsuyatech.logger.info: info
+    com.czetsuyatech.logger.debug: debug
+    com.czetsuyatech.logger.warn: warn
+    com.czetsuyatech.logger.trace: trace
+    com.czetsuyatech.logger.error: error
